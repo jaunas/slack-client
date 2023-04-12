@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Slack
+Comment=Slack client writtent in Rust using WebKit-Gtk2
+Exec=/usr/bin/slack-client
+Icon=/usr/share/pixmaps/slack.png
+Type=Application
+Terminal=false
+StartupWMClass=slack-client

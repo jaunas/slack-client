@@ -1,0 +1,12 @@
+[package]
+name = "slack-client"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dirs = "5.0.0"
+gtk = "0.16.2"
+open = "4.0.1"
+webkit2gtk = { version = "1.0.0", features = ["v2_16"] }
